@@ -1,5 +1,5 @@
 # WARNING
-For proper usage you must have (Microsoft Visual C++ Redistributable Package 2012)[https://www.microsoft.com/ru-ru/download/details.aspx?id=30679]
+For proper usage you must have [https://www.microsoft.com/ru-ru/download/details.aspx?id=30679](Microsoft Visual C++ Redistributable Package 2012)
 
 # AimTrainer
 Purpose: Train your AIM skills, now have 3 modes:
